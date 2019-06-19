@@ -1,0 +1,10 @@
+C:\Users\Angel\source\repos\pj_Navegador\pj_Navegador\bin\Debug\pj_Navegador.exe.config
+C:\Users\Angel\source\repos\pj_Navegador\pj_Navegador\bin\Debug\pj_Navegador.exe
+C:\Users\Angel\source\repos\pj_Navegador\pj_Navegador\bin\Debug\pj_Navegador.pdb
+C:\Users\Angel\source\repos\pj_Navegador\pj_Navegador\obj\Debug\pj_Navegador.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\pj_Navegador\pj_Navegador\obj\Debug\pj_Navegador.Form1.resources
+C:\Users\Angel\source\repos\pj_Navegador\pj_Navegador\obj\Debug\pj_Navegador.Properties.Resources.resources
+C:\Users\Angel\source\repos\pj_Navegador\pj_Navegador\obj\Debug\pj_Navegador.csproj.GenerateResource.cache
+C:\Users\Angel\source\repos\pj_Navegador\pj_Navegador\obj\Debug\pj_Navegador.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\pj_Navegador\pj_Navegador\obj\Debug\pj_Navegador.exe
+C:\Users\Angel\source\repos\pj_Navegador\pj_Navegador\obj\Debug\pj_Navegador.pdb
